@@ -80,16 +80,16 @@ Different measures capture different types of importance.
 
 ---
 
-### Types of Centrality
+## Types of Centrality
 
-#### Degree Centrality
+### Degree Centrality
 
 → number of direct connections
 → identifies active or popular nodes
 
 ---
 
-#### Betweenness Centrality
+### Betweenness Centrality
 
 → how often a node connects different parts of the network
 → identifies **bridges** between groups
@@ -99,17 +99,16 @@ Different measures capture different types of importance.
 
 ---
 
-#### Closeness Centrality
+### Closeness Centrality
 
 → how close a node is to all others
 → identifies nodes that can quickly reach others
 
 ---
 
-#### Eigenvector Centrality (Optional)
+### Eigenvector Centrality (Optional)
 
-→ importance based on being connected to important nodes
-
+→ importance based on connections to important nodes
 → identifies **influential nodes among influential nodes**
 
 ---
