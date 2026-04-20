@@ -6,10 +6,10 @@
 
 By the end of this module, you should be able to:
 
-* Understand what regression is used for
-* Interpret relationships between variables
-* Build a simple regression model
-* Evaluate whether a model is useful
+* understand what regression is used for
+* interpret relationships between variables
+* build a simple regression model
+* evaluate whether a model is useful
 
 ---
 
@@ -28,11 +28,24 @@ It helps answer questions such as:
 
 ## The Core Idea
 
-Regression models the relationship between variables.
+Regression models relationships between variables.
 
-Example:
+For example:
 
-How does the number of logins affect student performance?
+> How does the number of logins affect student performance?
+
+It helps us understand how changes in one variable are associated with changes in another.
+
+---
+
+## Scenario
+
+You are given student engagement data and performance scores.
+
+Your task is to:
+
+* understand how engagement relates to performance
+* build a simple predictive model
 
 ---
 
@@ -49,27 +62,28 @@ CRISP-DM Phase:
 
 ---
 
-## Scenario
-
-You are given student engagement data and performance scores.
-
-Your task is to understand how engagement relates to performance and build a simple predictive model.
-
----
-
 ## Learning Flow
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
+
+Each step builds on the previous one:
+
+* understand relationships
+* interpret patterns
+* apply a regression model
 
 ---
 
-## Getting Started
+## What You Will Do
 
-Begin with:
+In this module, you will:
 
-`lesson.md`
+* explore relationships between variables
+* interpret how one variable influences another
+* build a simple regression model
+* evaluate whether the model is useful
 
 ---
 
