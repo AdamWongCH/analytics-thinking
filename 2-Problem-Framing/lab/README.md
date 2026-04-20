@@ -12,9 +12,9 @@ Apply a structured approach to defining an analytics problem.
 
 In the lesson, you learned how to define problems.
 
-In the exercise, you refined vague requests.
+In the exercise, you explored a vague request.
 
-In this lab, you will formalise a problem.
+In this lab, you will formalise your thinking into a structured problem definition.
 
 ---
 
@@ -28,56 +28,55 @@ You are given the request:
 
 ## Task
 
-Reframe this into a structured analytics problem.
-
----
-
-## Steps
-
-### Step 1: Define the Objective
-
-What outcome are we trying to achieve?
-
----
-
-### Step 2: Define the Decision
-
-What decision will be made using this analysis?
-
----
-
-### Step 3: Define Success Metrics
-
-How will success be measured?
-
----
-
-### Step 4: Define the Analytical Question
-
-What question must the data answer?
+Reframe this into a structured analytics problem using the template below.
 
 ---
 
 ## Deliverable
 
-Write a structured problem statement including:
+Produce a structured problem definition with the following components:
 
-* Objective
-* Decision
-* Metrics
-* Analytical question
+### 1. Business Objective
+
+What outcome are we trying to achieve?
 
 ---
 
-## Tools
+### 2. Decision
 
-### Python (Recommended)
+What decision will this analysis support?
 
-* Use `problem_framing.ipynb`
+---
 
-### R (Optional)
+### 3. Success Metrics
 
-* Use `problem_framing.R`
+How will success be measured?
+
+---
+
+### 4. Analytical Question
+
+What question must the data answer?
+
+---
+
+### 5. Assumptions
+
+What assumptions are you making?
+
+---
+
+### 6. Constraints (Optional)
+
+Any limitations or considerations?
+
+---
+
+## Submission Format
+
+Write your answer clearly in a structured format.
+
+Use bullet points or short paragraphs.
 
 ---
 
