@@ -20,11 +20,11 @@ By itself, **data has no meaning**.
 Data is:
 > Raw, unprocessed facts without context.
 
-Only when we organise and interpret data does it become useful.
+Without interpretation, data does not support decision-making.
 
 ---
 
-## What is Information?
+## From Data to Information
 
 When data is processed and given context, it becomes **information**.
 
@@ -47,11 +47,32 @@ It involves:
 - identifying relationships  
 - extracting insights  
 
-But more importantly:
+However:
 
-> **Data mining is about finding patterns that support decision-making.**
+> **Data mining is not just about finding patterns —  
+> it is about finding patterns that support decision-making.**
 
-Not all patterns are useful — only those that help us act.
+Not all patterns are useful.  
+Only those that lead to better decisions create value.
+
+---
+
+## 🛠️ Tools in This Course
+
+In this course, we will implement analytics techniques using:
+
+- **Python**
+- **R**
+
+These tools are used to **execute analysis**, not define it.
+
+Our focus is on:
+- understanding the problem  
+- selecting the right analytical approach  
+- interpreting results for decision-making  
+
+> Tools may change.  
+> Thinking remains.
 
 ---
 
@@ -67,7 +88,7 @@ Analytics can be broadly categorised into four types:
 
 ### 2. Diagnostic Analytics — *Why did it happen?*
 - Explores causes and relationships  
-- Example: “Engagement dropped because assignment workload increased”
+- Example: “Engagement dropped due to increased workload”
 
 ---
 
@@ -85,7 +106,7 @@ Analytics can be broadly categorised into four types:
 
 In many courses, the focus is on descriptive and predictive analytics.
 
-In practice, the real value comes from **prescriptive thinking**.
+In practice, the greatest value comes from **prescriptive thinking**.
 
 ---
 
@@ -101,31 +122,31 @@ We follow this flow:
 
 ### Step 1: Data
 Raw facts  
-- Logs, transactions, records  
+- logs, transactions, records  
 
 ---
 
 ### Step 2: Information
 Processed and structured data  
-- Reports, summaries, dashboards  
+- reports, summaries, dashboards  
 
 ---
 
 ### Step 3: Insight
 Meaning derived from information  
-- Patterns, trends, relationships  
+- patterns, trends, relationships  
 
 ---
 
 ### Step 4: Decision
 Actions taken based on insight  
-- Interventions, strategies  
+- interventions, strategies  
 
 ---
 
 ### Step 5: Impact
 Outcomes of decisions  
-- Improved performance, reduced risk  
+- improved performance, reduced risk  
 
 ---
 
@@ -141,6 +162,36 @@ But:
 
 ---
 
+## Example: Student Engagement
+
+Consider the following data:
+
+- Student logged in twice this week  
+- Assignment not submitted  
+- No forum activity  
+
+---
+
+### Information
+The student has low engagement
+
+---
+
+### Insight
+Low engagement may indicate risk of attrition
+
+---
+
+### Decision
+Trigger an early intervention (e.g., reminder or outreach)
+
+---
+
+### Impact
+Improved retention and student outcomes
+
+---
+
 ## Key Takeaway
 
 > The goal is not to do analysis.  
@@ -151,8 +202,9 @@ But:
 ## Summary
 
 - Data by itself has no meaning  
-- Data mining transforms data into useful information  
-- Analytics can be descriptive, diagnostic, predictive, or prescriptive  
+- Information is data with context  
+- Data mining transforms data into useful insights  
+- Analytics spans descriptive, diagnostic, predictive, and prescriptive  
 - The ultimate goal is to move from data → decision → impact  
 
 ---
@@ -161,4 +213,4 @@ But:
 
 In the next module, we will learn how to:
 
-> Translate business problems into analytics problems using a structured approach.
+> Translate business problems into structured analytics problems using a systematic approach.
