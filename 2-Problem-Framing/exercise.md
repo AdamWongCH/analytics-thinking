@@ -4,7 +4,7 @@
 
 ## Objective
 
-Practice turning vague requests into clear analytics problems.
+Practice turning vague requests into clearer analytics thinking.
 
 ---
 
@@ -18,21 +18,23 @@ A stakeholder says:
 
 ## Tasks
 
-### 1. Identify the Issue
+### 1. What is unclear?
 
-What is unclear about this request?
-
----
-
-### 2. Ask Better Questions
-
-What questions would you ask to clarify the problem?
+List at least 3 things that are unclear about this request.
 
 ---
 
-### 3. Define the Problem
+### 2. Ask better questions
 
-Rewrite this as a clear analytics problem.
+What questions would you ask the stakeholder before starting?
+
+Write down at least 3 questions.
+
+---
+
+### 3. What might the real problem be?
+
+Based on your understanding, describe what you think the stakeholder is actually trying to solve.
 
 ---
 
@@ -42,22 +44,22 @@ Another request:
 
 “We need to track course performance.”
 
-Repeat the steps.
+Repeat the same steps.
 
 ---
 
 ## How this connects
 
-In this exercise, you refine vague requests.
+This exercise is exploratory.
 
-In the lab, you will structure a problem formally.
+In the lab, you will formalise your thinking using a structured template.
 
 ---
 
 ## Reflection
 
-* Why do vague problems lead to poor analytics?
-* What makes a problem actionable?
+* Why do vague requests lead to poor analytics outcomes?
+* What happens if we skip this step and go straight to building a solution?
 
 ---
 
