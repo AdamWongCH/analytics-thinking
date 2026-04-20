@@ -34,6 +34,7 @@ You implemented an intervention for some students.
 1. Calculate improvement rate for each group
 2. Compare treatment vs control
 3. Decide whether the intervention worked
+4. Explain whether this comparison is sufficient to claim causation
 
 ---
 
@@ -41,3 +42,5 @@ You implemented an intervention for some students.
 
 * Is the difference meaningful?
 * What assumptions are you making?
+* What would have happened if the intervention was not implemented?
+* What additional data would make your conclusion more reliable?
