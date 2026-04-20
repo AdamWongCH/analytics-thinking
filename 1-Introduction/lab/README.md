@@ -42,7 +42,7 @@ You can choose to complete this lab using:
 
 ---
 
-## 🧪 Tasks
+## Tasks
 
 1. Explore the dataset
 2. Summarise key patterns
