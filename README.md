@@ -1,30 +1,42 @@
-# Applied Analytics: From Data to Decision
+# Analytics Thinking
 
-This repository is a practical learning guide to analytics — designed to help you move beyond tools and learn how to **think with data**.
-
----
-
-## What this is about
-
-Most analytics courses focus on:
-
-* building models
-* writing code
-* using tools
-
-This repository focuses on something more fundamental:
-
-> **How to translate data into decisions.**
+A practical, thinking-first approach to data analytics.
 
 ---
 
-## The Learning Philosophy
+## Overview
 
-We follow a simple but powerful flow:
+This repository is an end-to-end learning path designed to help you:
 
-**Data → Information → Insight → Decision → Impact**
+> **think with data, not just work with it**
 
-If analysis does not lead to a decision, it has limited value.
+It focuses on how analytics is used to:
+
+* frame problems
+* interpret results
+* support decisions
+
+---
+
+## What This Is About
+
+Most analytics resources focus on:
+
+* tools
+* coding
+* models
+
+This repository focuses on:
+
+```text
+Thinking → Interpretation → Decision
+```
+
+You will learn:
+
+* how to ask the right questions
+* how to make sense of data
+* how to connect analysis to real-world actions
 
 ---
 
@@ -43,43 +55,80 @@ If analysis does not lead to a decision, it has limited value.
 
 ---
 
-## Who this is for
+## Structure
 
-* Beginners in analytics
-* Business users who work with data
-* Students learning data mining / analytics
-* Practitioners who want to connect analysis to real decisions
+Each module includes:
+
+* **Lesson** → concepts and intuition
+* **Exercise** → guided thinking
+* **Lab** → hands-on application
+* **Solutions** → reference answers
 
 ---
 
 ## Tools
 
-This repository is **tool-agnostic**.
+You can complete the labs using:
 
-Examples may use:
+* Python (recommended)
+* R (optional)
 
-* Python
-* R
-* Power BI
-
-But the focus is on **concepts and thinking**, not tools.
+No advanced setup is required.
 
 ---
 
-## How to use this repo
+## How to Use
 
-Each module contains:
+Start from:
 
-* Concept explanation
-* Practical examples
-* Exercises
-* Hands-on labs
+```text
+1-Introduction/
+```
 
-Start from `1-Introduction` and follow the learning path.
+Then proceed sequentially.
+
+Each module builds on the previous one.
 
 ---
 
-## Key idea
+## Who This Is For
 
-> The goal is not to do analysis.
-> The goal is to think with analysis.
+* beginners learning analytics
+* professionals working with data
+* non-technical users who want to think more clearly with data
+
+---
+
+## What Makes This Different
+
+This is not just a machine learning repository.
+
+It is about:
+
+* framing problems before analysis
+* interpreting results carefully
+* using analytics to drive decisions
+
+---
+
+## License
+
+Licensed under CC BY-NC 4.0.
+
+---
+
+## Author
+
+Adam Wong Cheng Hun
+Senior Analytics Lead
+Singapore University of Social Sciences
+
+---
+
+## Final Note
+
+Analytics is not about models.
+
+It is about:
+
+> **making better decisions with data**
