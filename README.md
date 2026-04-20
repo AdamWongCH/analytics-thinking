@@ -73,7 +73,7 @@ Each module contains:
 * Concept explanation
 * Practical examples
 * Exercises
-* (Optional) hands-on labs
+* Hands-on labs
 
 Start from `1-Introduction` and follow the learning path.
 
