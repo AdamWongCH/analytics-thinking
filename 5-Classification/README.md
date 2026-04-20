@@ -6,16 +6,18 @@
 
 By the end of this module, you should be able to:
 
-* Understand what classification is used for
-* Build a simple classification model
-* Interpret classification results
-* Evaluate model performance using appropriate metrics
+* understand what classification is used for
+* build a simple classification model
+* interpret classification results
+* evaluate model performance using appropriate metrics
 
 ---
 
 ## Why This Module Matters
 
-Many real-world decisions are categorical:
+Many real-world decisions are categorical.
+
+For example:
 
 * Is a student at risk?
 * Should intervention be triggered?
@@ -29,12 +31,22 @@ Classification helps us make these decisions.
 
 Classification predicts categories.
 
-Example:
+For example:
 
-Is a student:
+> Is a student at risk or not at risk?
 
-* At risk
-* Not at risk
+It helps us assign observations into groups that support decision-making.
+
+---
+
+## Scenario
+
+You are given student engagement data.
+
+Your task is to:
+
+* predict whether a student is **at risk**
+* use this prediction to support intervention decisions
 
 ---
 
@@ -51,27 +63,28 @@ CRISP-DM Phase:
 
 ---
 
-## Scenario
-
-You are given student engagement data.
-
-Your task is to predict whether a student is **at risk**.
-
----
-
 ## Learning Flow
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
+
+Each step builds on the previous one:
+
+* understand classification concepts
+* think about decision trade-offs
+* apply and evaluate a model
 
 ---
 
-## Getting Started
+## What You Will Do
 
-Begin with:
+In this module, you will:
 
-`lesson.md`
+* understand how classification supports decisions
+* build a simple classification model
+* evaluate model performance
+* interpret results in context
 
 ---
 
