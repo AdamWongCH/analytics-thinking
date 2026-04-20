@@ -102,4 +102,4 @@ It gives **structures that you must interpret**.
 
 Proceed to:
 
-`../7-Next-Steps/`
+`../7-Association/`
