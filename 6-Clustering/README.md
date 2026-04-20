@@ -6,16 +6,16 @@
 
 By the end of this module, you should be able to:
 
-* Understand what clustering is used for
-* Apply a simple clustering algorithm
-* Interpret cluster results
-* Use clustering for segmentation
+* understand what clustering is used for
+* apply a simple clustering algorithm
+* interpret cluster results
+* use clustering for segmentation
 
 ---
 
 ## Why This Module Matters
 
-Not all analytics problems have labels.
+Not all analytics problems have predefined labels.
 
 Sometimes, we want to:
 
@@ -23,7 +23,7 @@ Sometimes, we want to:
 * group similar observations
 * understand different segments
 
-Clustering helps us do this.
+Clustering helps us uncover structure in data.
 
 ---
 
@@ -31,13 +31,26 @@ Clustering helps us do this.
 
 Clustering groups similar observations together.
 
-Example:
+For example:
 
 Students may naturally form groups such as:
 
 * highly engaged
 * moderately engaged
 * disengaged
+
+These groups are not given — they are discovered from the data.
+
+---
+
+## Scenario
+
+You are given student engagement data.
+
+Your task is to:
+
+* identify different groups of students
+* interpret what these groups represent
 
 ---
 
@@ -48,37 +61,34 @@ CRISP-DM Phase:
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
-4. Modelling
+4. **Modelling (Unsupervised Learning)** ← focus of this module
 5. Evaluation
 6. Deployment
-
-Clustering is part of:
-
-**Modelling (Unsupervised Learning)**
-
----
-
-## Scenario
-
-You are given student engagement data.
-
-Your task is to identify different groups of students.
 
 ---
 
 ## Learning Flow
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
+
+Each step builds on the previous one:
+
+* understand clustering concepts
+* think about grouping and segmentation
+* apply and interpret clustering results
 
 ---
 
-## Getting Started
+## What You Will Do
 
-Begin with:
+In this module, you will:
 
-`lesson.md`
+* explore how observations can be grouped
+* apply a simple clustering algorithm
+* interpret cluster outputs
+* use clusters to support segmentation
 
 ---
 
@@ -94,7 +104,9 @@ Begin with:
 
 Clustering does not give answers.
 
-It gives **structures that you must interpret**.
+It gives:
+
+> **structures that you must interpret**
 
 ---
 
