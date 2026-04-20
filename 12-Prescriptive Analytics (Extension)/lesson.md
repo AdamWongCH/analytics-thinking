@@ -10,14 +10,14 @@ Understand how to move from predictions to decisions.
 
 ## Why This Matters
 
-A model may tell you:
+A model can tell you:
 
 * who is at risk
 * what may happen
 
 But it does not tell you:
 
-> what to do next
+> **what to do next**
 
 ---
 
@@ -36,10 +36,14 @@ But real-world impact comes from:
 
 ## What is Prescriptive Analytics?
 
-Prescriptive analytics helps determine:
+Prescriptive analytics determines:
 
-* the best action to take
-* given constraints and objectives
+> **the best action to take, given constraints**
+
+It answers:
+
+* Who should we act on?
+* What is the best use of limited resources?
 
 ---
 
@@ -56,13 +60,17 @@ But:
 
 ---
 
-### The Problem
+### The Decision Problem
 
-Who should you prioritise?
+You cannot act on everyone.
+
+You must choose:
+
+> **which students to prioritise**
 
 ---
 
-### Possible Approaches
+### Simple Approaches
 
 #### Naive
 
@@ -76,13 +84,13 @@ Who should you prioritise?
 
 ---
 
-#### Even Better
+#### More Realistic
 
-* consider:
+Consider:
 
-  * risk
-  * likelihood of improvement
-  * available resources
+* risk level
+* likelihood of improvement
+* available resources
 
 ---
 
@@ -109,7 +117,10 @@ What you want to achieve
 
 ### Trade-offs
 
-Choosing one action means not choosing another
+Choosing one option means not choosing another
+
+* prioritising one student excludes another
+* focusing on high risk may ignore easier wins
 
 ---
 
@@ -117,9 +128,22 @@ Choosing one action means not choosing another
 
 Prescriptive analytics helps answer:
 
-* Who should we act on?
-* What is the best use of resources?
+* Who should we act on first?
 * What decision leads to the best outcome?
+* How should resources be allocated?
+
+---
+
+## Where This Fits
+
+Within CRISP-DM:
+
+* **Evaluation** → compare possible actions
+* **Deployment** → implement decisions
+
+Prescriptive analytics bridges the gap between:
+
+> **prediction and action**
 
 ---
 
@@ -128,7 +152,7 @@ Prescriptive analytics helps answer:
 Use prescriptive analytics when:
 
 * resources are limited
-* decisions need prioritisation
+* decisions require prioritisation
 * actions have consequences
 
 ---
@@ -139,7 +163,7 @@ A common mistake is to:
 
 * assume higher prediction = higher priority
 * ignore constraints
-* ignore practical feasibility
+* ignore feasibility of action
 
 ---
 
@@ -147,11 +171,11 @@ A common mistake is to:
 
 In the exercise, you will:
 
-* prioritise actions
+* prioritise students under constraints
 
 In the lab, you will:
 
-* apply decision rules to a dataset
+* apply decision rules to select actions
 
 ---
 
