@@ -8,11 +8,26 @@ Learn how to define the right problem before working with data.
 
 ---
 
+## Why This Matters
+
+Analytics often fails before it even begins.
+
+Not because of bad models —
+but because the problem was not clearly defined.
+
+If the problem is unclear:
+
+* the data collected may be irrelevant
+* the analysis may not answer the real question
+* the output may not be used
+
+---
+
 ## The Common Mistake
 
 A stakeholder says:
 
-“Build me a dashboard.”
+> “Build me a dashboard.”
 
 Most analysts:
 
@@ -21,7 +36,7 @@ Most analysts:
 
 But pause for a moment.
 
-What problem are we solving?
+**What problem are we solving?**
 
 ---
 
@@ -34,34 +49,77 @@ A request is not a problem.
 | Build a dashboard | Identify at-risk students early        |
 | Track engagement  | Improve retention through intervention |
 
+A request describes **what to build**.
+A problem describes **what needs to be solved**.
+
 ---
 
 ## What is a Well-Defined Problem?
 
 A good problem includes:
 
-* A clear objective
-* A decision to be made
-* An outcome that matters
+* a clear objective
+* a decision to be made
+* an outcome that matters
+
+Without these, analysis becomes directionless.
 
 ---
 
-## Example
+## Worked Example
 
-Request:
+Let’s walk through this step by step.
+
+### Request
+
 “Monitor student engagement”
 
-Better problem:
-“Identify students with low engagement in the first 4 weeks so that early intervention can be triggered.”
+---
+
+### Problem
+
+“Identify students with low engagement in the first 4 weeks”
+
+---
+
+### Decision
+
+“Which students should we intervene on?”
+
+---
+
+### Outcome
+
+“Improve engagement and reduce attrition”
+
+---
+
+This is the full thinking process:
+
+**Request → Problem → Decision → Outcome**
+
+---
+
+## From Problem to Question
+
+A well-framed problem leads to a clear analytical question:
+
+> “Which students show early signs of disengagement?”
+
+This is the question your analysis should answer.
 
 ---
 
 ## Key Questions to Ask
 
+To clarify a problem, ask:
+
 * What decision will this support?
 * Who is making the decision?
 * What action will be taken?
 * What does success look like?
+
+These questions help move from vague requests to actionable problems.
 
 ---
 
@@ -75,13 +133,36 @@ Examples:
 * increase engagement
 * improve completion rates
 
+Success gives direction to your analysis.
+
 ---
 
-## From Problem to Question
+## When to Use This
 
-A well-framed problem leads to a clear analytical question:
+Use problem framing whenever:
 
-“Which students show early signs of disengagement?”
+* a stakeholder request is vague
+* you are asked to “just pull data”
+* the purpose of analysis is unclear
+* you are starting a new project
+
+A simple rule:
+
+> If you don’t know the decision, you are not ready to analyse.
+
+---
+
+## Common Pitfall
+
+A common mistake is to accept requests without clarification.
+
+For example:
+
+* building dashboards that are not used
+* analysing metrics that do not matter
+* solving the wrong problem
+
+Analytics outputs are only valuable if they support a decision.
 
 ---
 
