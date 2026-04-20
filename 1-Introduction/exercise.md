@@ -22,13 +22,13 @@ You are given the following information about a student:
 
 ### 1. From Data to Information
 
-What information can you derive from this data?
+What information can you derive?
 
 ---
 
 ### 2. From Information to Insight
 
-What does this information suggest about the student?
+What does this suggest about the student?
 
 ---
 
@@ -40,17 +40,25 @@ What action would you recommend?
 
 ## Extension
 
-Consider another student:
+Another student:
 
 * Logged in 8 times
 * Submitted assignment
 * Active in forum
 
-What would your conclusion be for this student?
+What is your conclusion?
 
 ---
 
-## Key Reflection
+## How this connects
+
+In this exercise, you are interpreting a single student scenario.
+
+In the lab, you will apply the same thinking to a full dataset.
+
+---
+
+## Reflection
 
 * When does data become useful?
 * What makes an insight actionable?
