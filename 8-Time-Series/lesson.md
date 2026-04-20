@@ -8,6 +8,22 @@ Understand how data behaves over time.
 
 ---
 
+## Why This Matters
+
+Some patterns only become visible when we look at data over time.
+
+For example:
+
+* engagement may appear stable overall, but declining recently
+* activity may spike around deadlines
+* sudden drops may signal problems
+
+Time helps us answer:
+
+> **What is changing, and when did it change?**
+
+---
+
 ## The Common Mistake
 
 Many learners treat time series like normal data.
@@ -17,6 +33,8 @@ But time adds:
 * sequence
 * trends
 * patterns
+
+Ignoring time means missing important signals.
 
 ---
 
@@ -28,34 +46,107 @@ Time series data is:
 * sequential
 * dependent on previous values
 
+This means each observation is connected to what came before.
+
 ---
 
 ## Key Patterns
 
 ### Trend
 
-Long-term increase or decrease
+Long-term increase or decrease.
+
+> Is the data generally going up or down?
 
 ---
 
 ### Seasonality
 
-Repeated patterns over time
+Repeated patterns over time.
+
+> Do behaviours repeat at regular intervals?
 
 ---
 
 ### Noise
 
-Random fluctuations
+Random fluctuations.
+
+> What variation is not meaningful?
 
 ---
 
-## Example
+## Worked Example
 
-Student logins over weeks:
+Consider student logins over several weeks.
+
+### Data
+
+Weekly login counts
+
+---
+
+### Observation
+
+* early weeks: stable or increasing
+* later weeks: noticeable decline
+
+---
+
+### Interpretation
 
 * increasing trend → improving engagement
-* sudden drop → possible issue
+* sudden drop → possible issue or disengagement
+
+---
+
+### Decision
+
+* investigate the drop
+* consider early intervention
+
+---
+
+This shows how time series helps move from:
+
+**pattern → interpretation → action**
+
+---
+
+## When to Use This
+
+Use time series when:
+
+* data is collected over time
+* you want to monitor changes
+* you need to detect trends or shifts
+
+Examples:
+
+* student engagement over weeks
+* sales over months
+* system usage over time
+
+A simple rule:
+
+> If time matters, treat the data as a time series.
+
+---
+
+## Common Pitfall
+
+A common mistake is to focus only on individual data points.
+
+For example:
+
+* reacting to a single drop
+* ignoring overall trend
+* misinterpreting random noise as a pattern
+
+Always ask:
+
+* Is this a real pattern?
+* Or just short-term fluctuation?
 
 ---
 
@@ -73,7 +164,7 @@ Time-based patterns help:
 
 In the exercise, you will:
 
-* identify patterns
+* identify patterns over time
 
 In the lab, you will:
 
@@ -83,4 +174,8 @@ In the lab, you will:
 
 ## Key Takeaway
 
-Time adds meaning to data patterns.
+Time does not just add another variable.
+
+It adds:
+
+> **context that gives meaning to patterns**
