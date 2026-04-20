@@ -1,16 +1,18 @@
 ## Lab Structure
 
-This module includes three labs with increasing realism:
+This module uses a **single integrated case study** to demonstrate different levels of causal reasoning.
 
-### Lab 1: A/B Testing (Core)
+The lab progresses through three stages:
+
+### Part 1: A/B Testing (Core)
 
 * Compare treatment vs control
-* Understand basic experimentation
+* Understand controlled experimentation
 * Strongest causal interpretation
 
 ---
 
-### Lab 2: Observational Data (Extension)
+### Part 2: Observational Data (Extension)
 
 * Treatment not assigned randomly
 * Groups may differ at baseline
@@ -18,7 +20,7 @@ This module includes three labs with increasing realism:
 
 ---
 
-### Lab 3: Difference-in-Differences (Extension+)
+### Part 3: Difference-in-Differences (Extension+)
 
 * Compare changes over time
 * Improves causal interpretation
@@ -28,14 +30,20 @@ This module includes three labs with increasing realism:
 
 ## How to Use
 
-* Start with **Lab 1**
-* Proceed to **Lab 2** to understand real-world limitations
-* Explore **Lab 3** for more advanced reasoning
+Follow the notebook from top to bottom.
 
----
-
-## Key Learning Progression
+Each part builds on the previous one:
 
 ```text
 Controlled comparison → Biased comparison → Adjusted comparison
 ```
+
+---
+
+## Key Learning Idea
+
+You are not learning three techniques.
+
+You are learning:
+
+> **how confidence in causal conclusions changes across different situations**
