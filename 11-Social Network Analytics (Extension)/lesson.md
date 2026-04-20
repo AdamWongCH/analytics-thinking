@@ -67,8 +67,8 @@ This forms a network of interactions.
 
 Number of connections a node has
 
-→ how connected an entity is
-→ identifies active or popular participants
+* how connected an entity is
+* identifies active or popular participants
 
 ---
 
@@ -84,15 +84,15 @@ Different measures capture different types of importance.
 
 ### Degree Centrality
 
-→ number of direct connections
-→ identifies active or popular nodes
+* number of direct connections
+* identifies active or popular nodes
 
 ---
 
 ### Betweenness Centrality
 
-→ how often a node connects different parts of the network
-→ identifies **bridges** between groups
+* how often a node connects different parts of the network
+* identifies **bridges between groups**
 
 > Not all important nodes are the most connected.
 > Some are important because they connect others.
@@ -101,15 +101,15 @@ Different measures capture different types of importance.
 
 ### Closeness Centrality
 
-→ how close a node is to all others
-→ identifies nodes that can quickly reach others
+* how close a node is to all others
+* identifies nodes that can quickly reach others
 
 ---
 
 ### Eigenvector Centrality (Optional)
 
-→ importance based on connections to important nodes
-→ identifies **influential nodes among influential nodes**
+* importance based on connections to important nodes
+* identifies **influential nodes among influential nodes**
 
 ---
 
