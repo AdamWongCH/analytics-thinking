@@ -1,147 +1,107 @@
-# Lesson: Experimentation & Causal Thinking
+# 13. Experimentation & Causal Thinking
 
 ---
 
-## Objective
+## Learning Objectives
 
-Understand how to evaluate whether a decision caused an outcome.
+By the end of this module, you should be able to:
 
----
-
-## Why This Matters
-
-After making a decision, we observe results.
-
-But we must ask:
-
-> Did the decision cause the result?
+* understand the difference between correlation and causation
+* explain why experiments are needed to evaluate decisions
+* compare outcomes between groups
+* interpret whether an action made a difference
 
 ---
 
-## The Common Mistake
+## Why This Module Matters
 
-Many learners assume:
+So far, you have learned how to:
 
-* if outcome improves → decision worked
+* understand data
+* build models
+* make predictions
+* make decisions
 
-But this may not be true.
+But one critical question remains:
 
-Other factors may explain the change.
-
----
-
-## Correlation vs Causation
-
-### Correlation
-
-Two things move together
+> **Did the decision actually work?**
 
 ---
 
-### Causation
+## The Core Idea
 
-One thing causes another
+Experimentation helps us answer:
 
----
+> **What would have happened if we did nothing?**
 
-## Example
-
-Students who attend more sessions perform better.
-
-But:
-
-* does attendance improve performance?
-* or do stronger students attend more?
+This allows us to determine whether an action truly made an impact.
 
 ---
 
-## The Problem
+## Scenario
 
-We cannot observe:
+You implemented an intervention for at-risk students.
 
-> what would have happened without the intervention
+Now you want to know:
 
----
-
-## The Solution: Experimentation
-
-We create two groups:
-
-### Treatment Group
-
-* receives the intervention
-
-### Control Group
-
-* does not receive the intervention
+* Did the intervention improve outcomes?
+* Or would those students have improved anyway?
 
 ---
 
-## A/B Testing
+## Framework
 
-We compare outcomes:
+CRISP-DM Phase:
 
-* treatment vs control
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modelling
+5. Evaluation
+6. Deployment
 
-If the treatment group performs better, we have evidence that:
+Experimentation strengthens:
 
-> the intervention made a difference
-
----
-
-## Key Concepts
-
-### Control Group
-
-Baseline for comparison
+* **Evaluation** ← measuring impact
+* **Deployment** ← improving future decisions
 
 ---
 
-### Treatment Group
+## Learning Flow
 
-Receives the action
-
----
-
-### Fair Comparison
-
-Groups should be similar before intervention
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
 
 ---
 
-## Interpretation
+## What You Will Do
 
-Experimentation helps answer:
-
-* Did the intervention work?
-* How large is the effect?
-
----
-
-## Common Pitfalls
-
-A common mistake is to:
-
-* compare groups that are not similar
-* ignore external factors
-* assume improvement implies causation
-
----
-
-## How this connects
-
-In the exercise, you will:
+In this module, you will:
 
 * compare outcomes between groups
-
-In the lab, you will:
-
-* evaluate whether an intervention made a difference
+* interpret simple A/B testing results
+* identify potential biases
+* assess whether an intervention worked
 
 ---
 
-## Key Takeaway
+## Estimated Time
 
-Correlation is not enough.
+* Lesson: 20–25 minutes
+* Exercise: 15–20 minutes
+* Lab: 25–30 minutes
 
-> **We need evidence of causation.**
+---
+
+## Key Mindset
+
+Making a decision is not enough.
+
+> **You must know whether it worked.**
+
+---
+
+## Next Step
+
+You may explore more advanced causal inference and experimentation methods.
