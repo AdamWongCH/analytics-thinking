@@ -7,39 +7,40 @@
 By the end of this module, you should be able to:
 
 * Understand why problem framing is critical in analytics
-* Distinguish between business problems and data problems
-* Apply a structured approach to defining analytics problems
-* Identify what success looks like before analysis begins
+* Distinguish between requests and actual problems
+* Translate vague business needs into clear analytical questions
+* Define success before starting analysis
 
 ---
 
 ## Why This Module Matters
 
-Many analytics projects fail not because of poor models, but because of poorly defined problems.
+Most analytics work fails before it begins.
+
+Not because of bad models —
+but because the problem was never clearly defined.
 
 Teams often:
 
-* jump straight into data
+* jump into data too early
 * build dashboards without purpose
 * optimise metrics that do not matter
-
-Problem framing ensures that analytics work leads to meaningful outcomes.
 
 ---
 
 ## The Core Idea
 
-Before analysing data, you must answer:
+Before analysing data, you must be clear on:
 
 * What problem are we solving?
-* Why does it matter?
 * What decision needs to be made?
+* What outcome are we trying to influence?
 
 ---
 
 ## Framework
 
-We will use the CRISP-DM framework:
+We use the CRISP-DM framework:
 
 1. Business Understanding
 2. Data Understanding
@@ -48,14 +49,9 @@ We will use the CRISP-DM framework:
 5. Evaluation
 6. Deployment
 
-CRISP-DM is not a linear process.
-You may revisit earlier steps as you refine your analysis.
-
 In this module, we focus on:
 
 **Business Understanding**
-
-Later modules will cover the remaining phases.
 
 ---
 
@@ -63,7 +59,7 @@ Later modules will cover the remaining phases.
 
 A university is experiencing declining student engagement.
 
-Management asks:
+Management says:
 
 “Can we build a dashboard to monitor engagement?”
 
@@ -71,44 +67,23 @@ Management asks:
 
 ## The Problem
 
-This is not yet a well-defined analytics problem.
+This is not yet a problem.
+
+It is a request.
 
 We need to clarify:
 
-* What does “engagement” mean?
+* What does engagement mean?
 * What decision will this support?
-* What outcome are we trying to improve?
+* What action will be taken?
 
 ---
 
-## How This Module Works
+## Learning Flow
 
-This module follows a simple learning flow:
-
-1. **Learn** → `lesson.md`
-2. **Think** → `exercise.md`
-3. **Apply** → `lab/`
-
-Each step builds on the previous one.
-
----
-
-## Exercise
-
-In the exercise, you will:
-
-* Identify gaps in vague requests
-* Ask better questions
-* Translate requests into clear problems
-
----
-
-## Lab
-
-In the lab, you will:
-
-* Structure a problem using a simple framework
-* Define objective, decision, metrics, and analytical question
+1. Lesson → `lesson.md`
+2. Exercise → `exercise.md`
+3. Lab → `lab/`
 
 ---
 
@@ -116,57 +91,19 @@ In the lab, you will:
 
 ### Python (Recommended)
 
-* Located in `lab/python/problem_framing.ipynb`
-* Run using Google Colab or Jupyter Notebook
-
----
+* `lab/python/problem_framing.ipynb`
 
 ### R (Optional)
 
-* Located in `lab/r/problem_framing.R`
-* Run using RStudio
+* `lab/r/problem_framing.R`
 
 ---
 
-## Recommendation
+## Getting Started
 
-If you are new to analytics:
+Begin with:
 
-Start with the Python version of the lab.
-
-The R version is available if you are familiar with R or prefer it.
-
----
-
-## How to Run
-
-### Python
-
-* Open the notebook
-* Run cells from top to bottom
-* Observe outputs after each step
-
----
-
-### R
-
-* Open `problem_framing.R` in RStudio
-* Run code line by line (Ctrl + Enter)
-* Execute from top to bottom
-
----
-
-## Estimated Time
-
-* Lesson: 15–20 minutes
-* Exercise: 10–15 minutes
-* Lab: 15–20 minutes
-
----
-
-## Key Mindset
-
-Better problem framing leads to better analytics outcomes.
+`lesson.md`
 
 ---
 
@@ -174,4 +111,4 @@ Better problem framing leads to better analytics outcomes.
 
 Proceed to:
 
-`lesson.md`
+`../3-Data-Understanding/`
