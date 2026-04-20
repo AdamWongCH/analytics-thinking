@@ -26,6 +26,12 @@ But one critical question remains:
 
 > **Did the decision actually work?**
 
+Predictions inform decisions.
+
+Decisions create actions.
+
+But only **evaluation** tells us whether those actions made a difference.
+
 ---
 
 ## The Core Idea
@@ -34,7 +40,7 @@ Experimentation helps us answer:
 
 > **What would have happened if we did nothing?**
 
-This allows us to determine whether an action truly made an impact.
+This is the foundation of causal thinking.
 
 ---
 
@@ -57,13 +63,12 @@ CRISP-DM Phase:
 2. Data Understanding
 3. Data Preparation
 4. Modelling
-5. Evaluation
-6. Deployment
+5. **Evaluation** ← measuring impact
+6. **Deployment** ← improving future decisions
 
-Experimentation strengthens:
+Experimentation strengthens the final step of analytics:
 
-* **Evaluation** ← measuring impact
-* **Deployment** ← improving future decisions
+> turning decisions into **measurable impact**
 
 ---
 
@@ -80,9 +85,19 @@ Experimentation strengthens:
 In this module, you will:
 
 * compare outcomes between groups
-* interpret simple A/B testing results
-* identify potential biases
-* assess whether an intervention worked
+* interpret A/B testing results
+* recognise bias in observational data
+* apply difference-in-differences for improved comparison
+
+---
+
+## Lab Structure
+
+The lab uses a **single integrated case study** to demonstrate increasing levels of causal reasoning:
+
+* **Part 1:** A/B Testing (controlled comparison)
+* **Part 2:** Observational Data (biased comparison)
+* **Part 3:** Difference-in-Differences (adjusted comparison)
 
 ---
 
@@ -99,6 +114,14 @@ In this module, you will:
 Making a decision is not enough.
 
 > **You must know whether it worked.**
+
+---
+
+## Key Question
+
+At every step, ask:
+
+> **What would have happened otherwise?**
 
 ---
 
