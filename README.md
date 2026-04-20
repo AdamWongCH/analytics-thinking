@@ -46,7 +46,7 @@ You will learn:
 
 ## Learning Path
 
-### 🟩 Core Modules (1–10)
+### Core Modules (1–10)
 
 Learn how to think with data and apply core analytical techniques.
 
@@ -63,13 +63,13 @@ Learn how to think with data and apply core analytical techniques.
 
 ---
 
-### 🟨 Extension Modules (11–20)
+### Extension Modules (11–20)
 
 Extend your thinking into more complex, real-world situations.
 
 ---
 
-#### 🧠 Deeper Thinking
+#### Deeper Thinking
 
 11. Social Network Analytics (Relationships & Influence)
 12. Prescriptive Analytics (Decision & Optimisation Thinking)
@@ -77,7 +77,7 @@ Extend your thinking into more complex, real-world situations.
 
 ---
 
-#### ⚙️ Making It Work
+#### Making It Work
 
 14. Sequential Decision-Making *(Optimisation & Reinforcement Learning)*
 15. Data Governance, Trust & Ethics *(Responsible Use of Data)*
@@ -85,7 +85,7 @@ Extend your thinking into more complex, real-world situations.
 
 ---
 
-#### 🧩 Putting It Together
+#### Putting It Together
 
 17. Personalisation & Recommendation Systems
 18. Automation & AI in Analytics *(GenAI & Agents)*
