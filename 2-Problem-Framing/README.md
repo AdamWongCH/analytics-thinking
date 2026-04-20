@@ -6,10 +6,10 @@
 
 By the end of this module, you should be able to:
 
-* Understand why problem framing is critical in analytics
-* Distinguish between requests and actual problems
-* Translate vague business needs into clear analytical questions
-* Define success before starting analysis
+* understand why problem framing is critical in analytics
+* distinguish between requests and actual problems
+* translate vague business needs into clear analytical questions
+* define success before starting analysis
 
 ---
 
@@ -36,6 +36,33 @@ Before analysing data, you must be clear on:
 * What decision needs to be made?
 * What outcome are we trying to influence?
 
+Analytics should always be tied to a decision.
+
+---
+
+## Scenario
+
+A university is experiencing declining student engagement.
+
+Management says:
+
+> “Can we build a dashboard to monitor engagement?”
+
+---
+
+## From Request to Problem
+
+This is not yet a problem.
+
+It is a **request**.
+
+We need to clarify:
+
+* What does engagement mean?
+* Why is engagement declining?
+* What decision will this support?
+* What action will be taken?
+
 ---
 
 ## Framework
@@ -53,45 +80,31 @@ In this module, we focus on:
 
 **Business Understanding**
 
----
-
-## Scenario
-
-A university is experiencing declining student engagement.
-
-Management says:
-
-“Can we build a dashboard to monitor engagement?”
-
----
-
-## The Problem
-
-This is not yet a problem.
-
-It is a request.
-
-We need to clarify:
-
-* What does engagement mean?
-* What decision will this support?
-* What action will be taken?
+This phase defines everything that follows.
 
 ---
 
 ## Learning Flow
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
+
+Each step builds on the previous one:
+
+* understand the problem
+* refine the question
+* apply structured thinking
 
 ---
 
-## Getting Started
+## What You Will Do
 
-Begin with:
+In this module, you will:
 
-`lesson.md`
+* transform vague requests into clear problems
+* define decision-focused questions
+* identify what success looks like
 
 ---
 
