@@ -51,10 +51,33 @@ Which students may require intervention.
 
 ## Tasks
 
-1. Explore the dataset
-2. Summarise key patterns
-3. Identify at-risk students
-4. Recommend an action
+### Step 1: Explore the Data
+
+* View the dataset
+* Understand what each column represents
+
+---
+
+### Step 2: Summarise the Data
+
+* Generate summary statistics
+* Identify any obvious patterns (e.g., low activity)
+
+---
+
+### Step 3: Identify At-Risk Students
+
+* Apply simple rules to flag students who may be at risk
+* Think about what conditions indicate low engagement
+
+---
+
+### Step 4: Make a Decision
+
+* Based on your findings, decide:
+
+  * Which students need intervention
+  * What action should be taken
 
 ---
 
