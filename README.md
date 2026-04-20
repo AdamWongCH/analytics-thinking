@@ -119,9 +119,8 @@ Licensed under CC BY-NC 4.0.
 
 ## Author
 
-Adam Wong Cheng Hun
-Senior Analytics Lead
-Singapore University of Social Sciences
+Adam Wong Cheng Hun  
+Senior Analytics Lead, Singapore University of Social Sciences
 
 ---
 
