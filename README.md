@@ -17,7 +17,7 @@ The focus is not only on techniques, but on:
 * framing the right problems
 * interpreting results meaningfully
 * supporting decisions and actions
-* evaluating impact in real-world contexts
+* evaluating whether decisions actually work
 
 ---
 
@@ -31,7 +31,7 @@ Most analytics resources focus on:
 
 This repository focuses on:
 
-```text id="nlf8o1"
+```text
 Thinking → Interpretation → Decision → Impact
 ```
 
@@ -40,17 +40,13 @@ You will learn:
 * how to ask the right questions
 * how to make sense of data
 * how to connect analysis to real-world outcomes
-* how to evaluate whether decisions actually work
+* how to evaluate whether decisions actually make a difference
 
 ---
 
 ## Learning Path
 
-This repository is organised into four stages:
-
----
-
-### 🟩 Core Modules (1–10): Foundations
+### 🟩 Core Modules (1–10)
 
 Learn how to think with data and apply core analytical techniques.
 
@@ -63,13 +59,17 @@ Learn how to think with data and apply core analytical techniques.
 7. Association
 8. Time Series
 9. Natural Language Processing
-10. Real-World Analytics Systems
+10. Real-World Analytics Systems *(understanding how analytics systems work)*
 
 ---
 
-### 🟨 Analytical Depth (11–13): Advanced Thinking
+### 🟨 Extension Modules (11–20)
 
-Go beyond basic models into structure, decision-making, and evaluation.
+Extend your thinking into more complex, real-world situations.
+
+---
+
+#### 🧠 Deeper Thinking
 
 11. Social Network Analytics (Relationships & Influence)
 12. Prescriptive Analytics (Decision & Optimisation Thinking)
@@ -77,24 +77,20 @@ Go beyond basic models into structure, decision-making, and evaluation.
 
 ---
 
-### 🟦 Real-World Application (14–16): Deployment & Impact
+#### ⚙️ Making It Work
 
-Learn how analytics operates in real-world environments.
-
-14. Optimisation & Decision Systems (Scaling Decisions)
-15. Data Governance, Trust & Ethics (Responsible Use of Data)
-16. Data Storytelling & Communication (From Insight to Influence)
+14. Sequential Decision-Making *(Optimisation & Reinforcement Learning)*
+15. Data Governance, Trust & Ethics *(Responsible Use of Data)*
+16. Data Storytelling & Communication *(From Insight to Influence)*
 
 ---
 
-### 🟥 Advanced & Capstone (17–20): Systems & Strategy
-
-Operate at a system level and integrate everything you have learned.
+#### 🧩 Putting It Together
 
 17. Personalisation & Recommendation Systems
-18. Automation & AI in Analytics (GenAI & Agents)
+18. Automation & AI in Analytics *(GenAI & Agents)*
 19. Analytics Strategy & Operating Model
-20. Capstone: End-to-End Analytics System
+20. Capstone: Designing an Analytics System *(bringing everything together)*
 
 ---
 
@@ -128,13 +124,13 @@ Different modules emphasise different parts of the process, but the framework re
 
 Start from:
 
-```text id="ihef19"
+```
 1-Introduction/
 ```
 
 Proceed sequentially through the core modules.
 
-Later modules build depth, realism, and strategic thinking.
+Extension modules can be explored after completing the core path.
 
 ---
 
