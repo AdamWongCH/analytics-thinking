@@ -15,7 +15,7 @@ In this lab, you will learn how to:
 
 ## Key Idea
 
-> Data is only valuable when it leads to action.
+Data is only valuable when it leads to action.
 
 ---
 
@@ -29,16 +29,23 @@ You are given student engagement data:
 
 Your task is to determine:
 
-> Which students may require intervention.
+Which students may require intervention.
 
 ---
 
 ## Tools
 
-You can choose to complete this lab using:
+### Python (Recommended)
 
-* Python (`python/`)
-* R (`r/`)
+* Use `python/data_to_decision.ipynb`
+* Run using Google Colab or Jupyter Notebook
+
+---
+
+### R (Optional)
+
+* Use `r/data_to_decision.R`
+* Run using RStudio
 
 ---
 
@@ -63,5 +70,5 @@ Write a short response:
 
 ## Reminder
 
-> The goal is not to produce output.
-> The goal is to **make a decision based on data**.
+The goal is not to produce output.
+The goal is to make a decision based on data.
