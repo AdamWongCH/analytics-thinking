@@ -6,10 +6,10 @@
 
 By the end of this module, you should be able to:
 
-* Understand the role of data understanding in analytics
-* Explore a dataset systematically
-* Identify data types, structure, and potential issues
-* Generate initial insights from data
+* understand the role of data understanding in analytics
+* explore a dataset systematically
+* identify data types, structure, and potential issues
+* generate initial insights from data
 
 ---
 
@@ -33,18 +33,7 @@ Before doing any modelling, you should ask:
 * What patterns exist in the data?
 * Are there missing or unusual values?
 
----
-
-## Framework
-
-CRISP-DM Phase:
-
-1. Business Understanding
-2. **Data Understanding** ← focus of this module
-3. Data Preparation
-4. Modelling
-5. Evaluation
-6. Deployment
+Understanding the data is the foundation of all analysis.
 
 ---
 
@@ -60,19 +49,41 @@ Your task is to understand the data before using it for analysis.
 
 ---
 
-## Learning Flow
+## Framework
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+CRISP-DM Phase:
+
+1. Business Understanding
+2. **Data Understanding** ← focus of this module
+3. Data Preparation
+4. Modelling
+5. Evaluation
+6. Deployment
 
 ---
 
-## Getting Started
+## Learning Flow
 
-Begin with:
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
 
-`lesson.md`
+Each step builds on the previous one:
+
+* explore the data
+* interpret patterns
+* prepare for analysis
+
+---
+
+## What You Will Do
+
+In this module, you will:
+
+* examine the structure of a dataset
+* identify data types and potential issues
+* summarise key patterns
+* generate initial insights
 
 ---
 
