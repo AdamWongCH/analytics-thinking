@@ -18,6 +18,10 @@ They are in:
 * patterns of interaction
 * flow of information
 
+Network analysis helps us understand:
+
+> **how entities are connected and how influence flows**
+
 ---
 
 ## The Common Mistake
@@ -30,6 +34,8 @@ But miss:
 
 > how entities are connected
 
+This means important patterns may be overlooked.
+
 ---
 
 ## What is a Network?
@@ -39,11 +45,13 @@ A network consists of:
 * **nodes** → entities (e.g. students)
 * **edges** → relationships (e.g. interactions)
 
+Instead of analysing rows of data, we analyse connections.
+
 ---
 
 ## Worked Example
 
-Consider students interacting in a forum.
+Consider students interacting in a forum:
 
 * Student A replies to Student B
 * Student B replies to Student C
@@ -60,22 +68,49 @@ This forms a network of interactions.
 Number of connections a node has
 
 → how connected an entity is
+→ identifies active or popular participants
 
 ---
 
 ### Centrality
 
-Importance of a node in the network
+Measures how important a node is in the network
 
-→ who is influential
+Different measures capture different types of importance.
 
 ---
 
-### Communities
+### Types of Centrality
 
-Groups of nodes that are closely connected
+#### Degree Centrality
 
-→ clusters of interaction
+→ number of direct connections
+→ identifies active or popular nodes
+
+---
+
+#### Betweenness Centrality
+
+→ how often a node connects different parts of the network
+→ identifies **bridges** between groups
+
+> Not all important nodes are the most connected.
+> Some are important because they connect others.
+
+---
+
+#### Closeness Centrality
+
+→ how close a node is to all others
+→ identifies nodes that can quickly reach others
+
+---
+
+#### Eigenvector Centrality (Optional)
+
+→ importance based on being connected to important nodes
+
+→ identifies **influential nodes among influential nodes**
 
 ---
 
@@ -84,8 +119,9 @@ Groups of nodes that are closely connected
 Network analysis helps answer:
 
 * Who is highly connected?
+* Who connects different groups?
+* Who can influence others quickly?
 * Who is isolated?
-* Who influences others?
 
 ---
 
@@ -109,13 +145,15 @@ Examples:
 
 A common mistake is to:
 
-* over-interpret connections
-* assume connections imply strong influence
+* assume all connections are equally important
+* over-interpret weak connections
+* confuse connection with influence
 
 Always consider:
 
 * context
 * strength of relationships
+* meaning behind connections
 
 ---
 
@@ -127,7 +165,9 @@ In the exercise, you will:
 
 In the lab, you will:
 
-* build and analyse a small network
+* build a network
+* compute centrality measures
+* interpret the results
 
 ---
 
@@ -135,4 +175,4 @@ In the lab, you will:
 
 Network analysis helps you:
 
-> **understand relationships, not just data points**
+> **understand relationships, influence, and structure — not just data points**
