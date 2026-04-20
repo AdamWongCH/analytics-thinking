@@ -6,10 +6,10 @@
 
 By the end of this module, you should be able to:
 
-* Understand how analytics is used in real-world systems
-* Connect different analytics techniques
-* Translate insights into actions
-* Think about data systems, not just analysis
+* understand how analytics is used in real-world systems
+* connect different analytics techniques
+* translate insights into actions
+* think about data systems, not just analysis
 
 ---
 
@@ -37,6 +37,8 @@ Real-world analytics is a system involving:
 * people
 * decisions
 
+The value of analytics comes from how these elements work together.
+
 ---
 
 ## Scenario
@@ -47,11 +49,43 @@ Your task is to design an analytics solution to support student success.
 
 ---
 
+## Framework
+
+A simple analytics system can be viewed as:
+
+1. Data
+2. Processing
+3. Analysis
+4. Output
+5. Decision
+6. Impact
+
+This extends beyond modelling into real-world use.
+
+---
+
 ## Learning Flow
 
-1. Lesson → `lesson.md`
-2. Exercise → `exercise.md`
-3. Lab → `lab/`
+1. **Lesson** → `lesson.md`
+2. **Exercise** → `exercise.md`
+3. **Lab** → `lab/`
+
+Each step builds on the previous one:
+
+* understand how analytics systems work
+* design a solution conceptually
+* apply structured thinking to a real scenario
+
+---
+
+## What You Will Do
+
+In this module, you will:
+
+* connect different analytics techniques
+* design an end-to-end analytics approach
+* translate insights into actions
+* think about how analytics supports decisions in practice
 
 ---
 
@@ -67,10 +101,14 @@ Your task is to design an analytics solution to support student success.
 
 Analytics is not about tools.
 
-It is about **impact**.
+It is about:
+
+> **impact**
 
 ---
 
 ## Completion
 
 You have completed the analytics learning path.
+
+The next step is to apply these concepts in real-world contexts.
