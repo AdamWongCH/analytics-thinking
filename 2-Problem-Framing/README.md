@@ -87,23 +87,25 @@ We need to clarify:
 
 ---
 
-## Lab Environment
-
-### Python (Recommended)
-
-* `lab/python/problem_framing.ipynb`
-
-### R (Optional)
-
-* `lab/r/problem_framing.R`
-
----
-
 ## Getting Started
 
 Begin with:
 
 `lesson.md`
+
+---
+
+## Estimated Time
+
+* Lesson: 15–20 minutes
+* Exercise: 10–15 minutes
+* Lab: 15–20 minutes
+
+---
+
+## Key Mindset
+
+Better problem framing leads to better analytics outcomes.
 
 ---
 
