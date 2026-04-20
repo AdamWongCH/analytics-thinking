@@ -71,9 +71,9 @@ Extend your thinking into more complex, real-world situations.
 
 #### Deeper Thinking
 
-11. Social Network Analytics (Relationships & Influence)
-12. Prescriptive Analytics (Decision & Optimisation Thinking)
-13. Experimentation & Causal Thinking (Evaluation & Impact)
+11. Social Network Analytics *(Relationships & Influence)*
+12. Prescriptive Analytics *(Decision & Optimisation Thinking)*
+13. Experimentation & Causal Thinking *(Evaluation & Impact)*
 
 ---
 
