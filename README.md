@@ -1,24 +1,26 @@
 # Analytics Thinking
 
-A practical, thinking-first approach to data analytics.
+A practical, thinking-first approach to data analytics for real-world decision-making.
 
 ---
 
 ## Overview
 
-This repository is an end-to-end learning path designed to help you:
+This repository provides an end-to-end learning path for analytics.
+
+It is designed to help you:
 
 > **think with data, not just work with it**
 
-It focuses on how analytics is used to:
+The focus is not just on techniques, but on:
 
-* frame problems
-* interpret results
-* support decisions
+* framing problems
+* interpreting results
+* supporting decisions
 
 ---
 
-## What This Is About
+## What Makes This Different
 
 Most analytics resources focus on:
 
@@ -36,15 +38,15 @@ You will learn:
 
 * how to ask the right questions
 * how to make sense of data
-* how to connect analysis to real-world actions
+* how to connect analysis to action
 
 ---
 
 ## Learning Path
 
 1. Introduction to Data Thinking
-2. Problem Framing (CRISP-DM)
-3. Data Understanding & Preparation
+2. Problem Framing
+3. Data Understanding
 4. Regression
 5. Classification
 6. Clustering
@@ -62,18 +64,7 @@ Each module includes:
 * **Lesson** → concepts and intuition
 * **Exercise** → guided thinking
 * **Lab** → hands-on application
-* **Solutions** → reference answers
-
----
-
-## Tools
-
-You can complete the labs using:
-
-* Python (recommended)
-* R (optional)
-
-No advanced setup is required.
+* **Solutions** → reference
 
 ---
 
@@ -81,7 +72,7 @@ No advanced setup is required.
 
 Start from:
 
-```text
+```
 1-Introduction/
 ```
 
@@ -99,27 +90,22 @@ Each module builds on the previous one.
 
 ---
 
-## What Makes This Different
+## Tools
 
-This is not just a machine learning repository.
-
-It is about:
-
-* framing problems before analysis
-* interpreting results carefully
-* using analytics to drive decisions
+* Python (recommended)
+* R (optional)
 
 ---
 
 ## License
 
-Licensed under CC BY-NC 4.0.
+CC BY-NC 4.0
 
 ---
 
 ## Author
 
-Adam Wong Cheng Hun
+**Adam Wong Cheng Hun**
 
 ---
 
