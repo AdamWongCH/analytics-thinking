@@ -52,7 +52,62 @@ In this module, we will cover:
 
 ---
 
+## How This Module Works
+
+This module follows a simple learning flow:
+
+1. **Learn** the concepts → `lesson.md`
+2. **Think** through a scenario → `exercise.md`
+3. **Apply** using data → `lab/`
+
+Each step builds on the previous one.
+
+---
+
+## Scenario
+
+Throughout this module, we use a common example:
+
+Student engagement data:
+
+* Number of logins
+* Assignment submission status
+* Forum participation
+
+Your goal is to determine:
+
+Which students may require intervention.
+
+---
+
+## Exercise
+
+In the exercise, you will:
+
+* Interpret simple student data
+* Derive meaning from it
+* Decide what action should be taken
+
+This prepares you for the lab.
+
+---
+
 ## Lab
+
+In the lab, you will:
+
+* Explore a dataset
+* Summarise patterns
+* Identify at-risk students
+* Recommend an action
+
+This is where you apply the full process:
+
+Data → Information → Insight → Decision
+
+---
+
+## Lab Environment
 
 You may complete the lab using:
 
@@ -82,7 +137,7 @@ The R version is available if you are familiar with R or prefer it.
 
 ---
 
-## How to Run the Lab
+## How to Run
 
 ### Python
 
@@ -95,23 +150,14 @@ The R version is available if you are familiar with R or prefer it.
 ### R
 
 * Open `data_to_decision.R` in RStudio
-* Click on a line of code
-* Press Ctrl + Enter to run
-* Run code in sequence from top to bottom
-
----
-
-## Learning Flow
-
-1. Read the lesson → `lesson.md`
-2. Try the exercise → `exercise.md`
-3. Complete the lab → `lab/`
+* Run code line by line (Ctrl + Enter)
+* Execute from top to bottom
 
 ---
 
 ## Estimated Time
 
-* Reading: 15–20 minutes
+* Lesson: 15–20 minutes
 * Exercise: 10–15 minutes
 * Lab: 15–20 minutes
 
