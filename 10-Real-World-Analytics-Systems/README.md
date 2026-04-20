@@ -106,6 +106,28 @@ It is about:
 > **impact**
 
 ---
+## Beyond This Learning Path
+
+This course focuses on understanding data, building models, and supporting decisions.
+
+Beyond this, there are more advanced areas you may explore:
+
+* **Prescriptive analytics and optimisation**
+  → deciding the best action under constraints
+
+* **Computer vision (image recognition)**
+  → extracting insights from images
+
+* **Video analytics**
+  → analysing behaviour and patterns over time in visual data
+
+These build on the same foundation, but require more specialised techniques.
+
+The key idea remains the same:
+
+> data → insight → decision → impact
+
+---
 
 ## Completion
 
