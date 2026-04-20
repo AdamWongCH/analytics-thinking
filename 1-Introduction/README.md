@@ -21,7 +21,7 @@ They learn:
 
 * Python
 * R
-* dashboards
+* Dashboards
 
 But still struggle to answer a simple question:
 
