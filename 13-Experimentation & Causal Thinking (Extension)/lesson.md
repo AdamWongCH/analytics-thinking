@@ -14,7 +14,12 @@ After making a decision, we observe results.
 
 But we must ask:
 
-> Did the decision cause the result?
+> **Did the decision cause the result?**
+
+Predictions lead to decisions.
+Decisions lead to actions.
+
+But only **evaluation** tells us whether those actions made a difference.
 
 ---
 
@@ -57,13 +62,21 @@ But:
 
 ## The Problem
 
-We cannot observe:
+We cannot directly observe:
 
-> what would have happened without the intervention
+> **what would have happened without the intervention**
+
+This is known as the **counterfactual**.
 
 ---
 
-## The Solution: Experimentation
+## The Solution: Fair Comparison
+
+To evaluate impact, we need a fair comparison.
+
+---
+
+## A/B Testing (Ideal Case)
 
 We create two groups:
 
@@ -75,17 +88,40 @@ We create two groups:
 
 * does not receive the intervention
 
----
-
-## A/B Testing
-
 We compare outcomes:
 
 * treatment vs control
 
 If the treatment group performs better, we have evidence that:
 
-> the intervention made a difference
+> **the intervention made a difference**
+
+---
+
+## The Challenge: Real-World Data
+
+In practice, we often cannot assign treatment randomly.
+
+This leads to **observational data**, where:
+
+* groups may already be different
+* comparisons may be biased
+
+---
+
+## Improving Comparison
+
+When groups are not comparable, we need better approaches.
+
+One example is:
+
+### Difference-in-Differences
+
+Instead of comparing levels, we compare:
+
+> **how much each group changes over time**
+
+This helps us isolate the effect of the intervention more fairly.
 
 ---
 
@@ -105,16 +141,23 @@ Receives the action
 
 ### Fair Comparison
 
-Groups should be similar before intervention
+Groups should be similar, or adjusted to be comparable
+
+---
+
+### Counterfactual
+
+What would have happened without the intervention
 
 ---
 
 ## Interpretation
 
-Experimentation helps answer:
+Causal thinking helps answer:
 
 * Did the intervention work?
 * How large is the effect?
+* How confident are we in the conclusion?
 
 ---
 
@@ -123,7 +166,7 @@ Experimentation helps answer:
 A common mistake is to:
 
 * compare groups that are not similar
-* ignore external factors
+* ignore baseline differences
 * assume improvement implies causation
 
 ---
@@ -136,7 +179,11 @@ In the exercise, you will:
 
 In the lab, you will:
 
-* evaluate whether an intervention made a difference
+* evaluate an intervention across three scenarios:
+
+  * A/B Testing
+  * Observational Data
+  * Difference-in-Differences
 
 ---
 
@@ -144,4 +191,4 @@ In the lab, you will:
 
 Correlation is not enough.
 
-> **We need evidence of causation.**
+> **We must compare what happened with what would have happened otherwise.**
