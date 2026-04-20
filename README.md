@@ -134,8 +134,6 @@ It is about:
 ## Author
 
 **Adam Wong Cheng Hun**
-Senior Analytics Lead
-Singapore University of Social Sciences
 
 ---
 
