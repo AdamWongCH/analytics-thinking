@@ -23,6 +23,10 @@ So far, you have learned how to:
 
 But predictions alone do not create value.
 
+They answer:
+
+> *What is likely to happen?*
+
 We still need to decide:
 
 > **What should we do?**
@@ -35,9 +39,9 @@ Prescriptive analytics answers:
 
 > **Given what we know, what is the best action?**
 
-It helps us move from:
+It completes the progression:
 
-**prediction → decision → action**
+**understanding → prediction → decision → action**
 
 ---
 
@@ -109,7 +113,7 @@ In this module, you will:
 
 Prediction is not the end.
 
-It is the input to decision-making.
+> **Decisions create impact.**
 
 ---
 
