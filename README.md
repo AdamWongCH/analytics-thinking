@@ -6,17 +6,17 @@ A practical, thinking-first approach to data analytics for real-world decision-m
 
 ## Overview
 
-This repository provides an end-to-end learning path for analytics.
+This repository provides a structured learning path for analytics.
 
 It is designed to help you:
 
 > **think with data, not just work with it**
 
-The focus is not just on techniques, but on:
+The focus is not only on techniques, but on:
 
-* framing problems
-* interpreting results
-* supporting decisions
+* framing the right problems
+* interpreting results meaningfully
+* supporting decisions and actions
 
 ---
 
@@ -30,19 +30,21 @@ Most analytics resources focus on:
 
 This repository focuses on:
 
-```text
-Thinking → Interpretation → Decision
+```text id="nlf8o1"
+Thinking → Interpretation → Decision → Impact
 ```
 
 You will learn:
 
 * how to ask the right questions
 * how to make sense of data
-* how to connect analysis to action
+* how to connect analysis to real-world outcomes
 
 ---
 
 ## Learning Path
+
+### Core Modules
 
 1. Introduction to Data Thinking
 2. Problem Framing
@@ -57,6 +59,13 @@ You will learn:
 
 ---
 
+### Extension Modules
+
+11. Social Network Analytics (Relationships & Influence)
+12. Prescriptive Analytics (Decision & Optimisation Thinking)
+
+---
+
 ## Structure
 
 Each module includes:
@@ -68,6 +77,21 @@ Each module includes:
 
 ---
 
+## Framework
+
+This course follows the **CRISP-DM framework**:
+
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modelling
+5. Evaluation
+6. Deployment
+
+Different modules emphasise different parts of the process, but the framework remains consistent.
+
+---
+
 ## How to Use
 
 Start from:
@@ -76,9 +100,9 @@ Start from:
 1-Introduction/
 ```
 
-Then proceed sequentially.
+Proceed sequentially through the core modules.
 
-Each module builds on the previous one.
+Extension modules can be explored after completing the core path.
 
 ---
 
@@ -97,22 +121,24 @@ Each module builds on the previous one.
 
 ---
 
-## License
-
-CC BY-NC 4.0
-
----
-
-## Author
-
-**Adam Wong Cheng Hun**
-
----
-
-## Final Note
+## Philosophy
 
 Analytics is not about models.
 
 It is about:
 
 > **making better decisions with data**
+
+---
+
+## Author
+
+**Adam Wong Cheng Hun**
+Senior Analytics Lead
+Singapore University of Social Sciences
+
+---
+
+## License
+
+CC BY-NC 4.0
