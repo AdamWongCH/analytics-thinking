@@ -4,7 +4,7 @@
 
 ## Objective
 
-In this lab, you will learn how to:
+In this lab, you will:
 
 * Explore raw data
 * Transform it into information
@@ -13,9 +13,13 @@ In this lab, you will learn how to:
 
 ---
 
-## Key Idea
+## How this lab connects
 
-Data is only valuable when it leads to action.
+In the lesson, you learned how data becomes decisions.
+
+In the exercise, you applied this thinking to a simple case.
+
+In this lab, you will apply the same process to a dataset to identify at-risk students and recommend an action.
 
 ---
 
@@ -54,30 +58,28 @@ Which students may require intervention.
 ### Step 1: Explore the Data
 
 * View the dataset
-* Understand what each column represents
+* Understand the columns
 
 ---
 
 ### Step 2: Summarise the Data
 
 * Generate summary statistics
-* Identify any obvious patterns (e.g., low activity)
+* Identify patterns
 
 ---
 
 ### Step 3: Identify At-Risk Students
 
-* Apply simple rules to flag students who may be at risk
-* Think about what conditions indicate low engagement
+* Apply simple rules
+* Flag students with low engagement
 
 ---
 
 ### Step 4: Make a Decision
 
-* Based on your findings, decide:
-
-  * Which students need intervention
-  * What action should be taken
+* Decide which students need intervention
+* Recommend an action
 
 ---
 
