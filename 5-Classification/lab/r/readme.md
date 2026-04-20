@@ -1,6 +1,6 @@
 # R Lab
 
-Open `regression.R` in RStudio.
+Open `classification.R` in RStudio.
 
 Run the script line by line using:
 
