@@ -17,35 +17,65 @@ You do not need prior experience in both tools to get started.
 
 Use the following environments:
 
-### Python Labs
+### Python (Recommended)
 
 * Run using Google Colab or Jupyter Notebook
+* Google Colab is recommended as it requires no installation
 
-### R Labs
+---
+
+### R (Optional)
 
 * Run using RStudio
 
 ---
 
-## Getting Started
+## Recommendation
 
-### For Python (Recommended: Google Colab)
+If you are new to analytics:
 
-* Open the notebook link provided in each lab
-* No installation required
+* Start with Python labs
+* Use R only if you are familiar with it or prefer it
+
+You only need to use one tool at a time.
 
 ---
 
-### For R (Recommended: RStudio)
+## Getting Started
+
+### Python (Google Colab)
+
+* Open the notebook file from the repository
+* Run each cell from top to bottom
+* Observe the output after each step
+
+No installation is required when using Google Colab.
+
+---
+
+### R (RStudio)
 
 1. Install:
 
    * R → https://cran.r-project.org
    * RStudio → https://posit.co/download/rstudio-desktop/
 
-2. Open `.Rmd` files in RStudio
+2. Open `.R` files in RStudio
 
-3. Click **Knit** to run the lab
+3. Run code line by line:
+
+   * Click on a line
+   * Press Ctrl + Enter
+
+4. Observe the output in the Console
+
+---
+
+## Important Notes
+
+* Code must be run in sequence
+* If you see "object not found", run the previous lines first
+* Writing code is not the same as running code
 
 ---
 
@@ -58,14 +88,6 @@ The focus of this course is on:
 * understanding problems
 * choosing the right approach
 * interpreting results for decision-making
-
----
-
-## Notes
-
-* You only need to use one tool at a time (Python or R)
-* Labs are provided in both formats for flexibility
-* Choose the tool you are more comfortable with
 
 ---
 
