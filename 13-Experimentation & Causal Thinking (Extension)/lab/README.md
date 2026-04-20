@@ -2,6 +2,26 @@
 
 This module uses a **single integrated case study** to demonstrate different levels of causal reasoning.
 
+---
+
+## Objective
+
+Evaluate whether an intervention made a difference under different conditions.
+
+---
+
+## Scenario
+
+A university implemented an intervention to improve student engagement.
+
+Your task is to determine:
+
+> **Did the intervention actually work?**
+
+---
+
+## Structure
+
 The lab progresses through three stages:
 
 ### Part 1: A/B Testing (Core)
@@ -47,3 +67,11 @@ You are not learning three techniques.
 You are learning:
 
 > **how confidence in causal conclusions changes across different situations**
+
+---
+
+## Key Question
+
+At every step, ask:
+
+> **What would have happened if we did nothing?**
