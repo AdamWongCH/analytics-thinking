@@ -82,15 +82,6 @@ In this module, you will:
 
 ---
 
-## Lab Environment
-
-You may complete the lab using:
-
-* Python → `lab/python/data_to_decision.ipynb` (recommended)
-* R → `lab/r/data_to_decision.R` (optional)
-
----
-
 ## Estimated Time
 
 * Lesson: 15–20 minutes
