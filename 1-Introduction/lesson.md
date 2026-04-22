@@ -8,24 +8,6 @@ Understand how data becomes information, insight, and decision.
 
 ---
 
-## Why This Matters
-
-Many people think analytics starts with tools.
-
-They think about:
-
-* dashboards
-* coding
-* models
-
-But analytics starts earlier than that.
-
-It starts with a simple question:
-
-**What does this data mean, and what should we do about it?**
-
----
-
 ## What is Data?
 
 Consider the number:
@@ -40,180 +22,111 @@ It could be:
 * a student’s age
 * the number of applications
 
-By itself, the number tells us very little.
+By itself, data has no meaning.
 
-Data is:
-
-**raw, unprocessed facts without context**
-
-This means data on its own is not yet useful for decision-making.
+Data is **raw, unprocessed facts without context**.
 
 ---
 
 ## From Data to Information
 
-When data is organised and given context, it becomes **information**.
+When data is given context, it becomes information.
 
 For example:
 
 * “37 students applied for this course”
 * “The temperature is 37°C”
 
-Now the number has meaning.
-
-A useful way to think about this is:
-
-**Information = Data + Context**
+Information = Data + Context
 
 ---
 
 ## What is Data Mining?
 
-Data mining is the process of transforming data into useful information and insight.
+Data mining is the process of transforming data into useful information.
 
 It involves:
 
 * discovering patterns
 * identifying relationships
-* extracting useful signals
+* extracting insights
 
 More importantly:
 
-**Data mining is about finding patterns that support decision-making.**
-
-A pattern is only valuable if it helps someone understand a situation better or act more effectively.
+> Data mining helps us find patterns that support decision-making.
 
 ---
 
 ## Types of Analytics
 
-Analytics can be viewed as different levels of questioning:
+Different types of analytics answer different questions:
 
 * **Descriptive** — What happened?
 * **Diagnostic** — Why did it happen?
 * **Predictive** — What will happen?
 * **Prescriptive** — What should we do?
 
-These levels build on one another.
-
-For example:
-
-* Descriptive: student logins dropped
-* Diagnostic: participation fell after assignment release
-* Predictive: some students may be at risk of disengagement
-* Prescriptive: intervene early with reminders or support
-
 ---
 
 ## From Data to Decision
 
-The real goal of analytics is to move from raw data to meaningful action.
-
-A useful flow is:
+The goal is to move from:
 
 **Data → Information → Insight → Decision → Impact**
 
-Many people stop at information.
+Most people stop at information or dashboards.
 
-They produce reports, dashboards, or summaries.
+Value comes from:
 
-But the real value of analytics comes later:
-
-* **Insight** helps us understand what the information means
-* **Decision** helps us choose what to do
-* **Impact** is the result of that action
+> **decisions and actions**
 
 ---
 
-## Worked Example
+## Example
 
-Consider this student data:
+Student data:
 
 * low logins
 * missing assignment
 * no forum activity
 
-We can move through the analytics flow like this:
-
-### Data
-
-The student shows:
-
-* low logins
-* no submission
-* no forum activity
+---
 
 ### Information
 
-This student has **low engagement**
+Low engagement
+
+---
 
 ### Insight
 
-Low engagement may indicate that the student is at risk of falling behind or disengaging further
+Student may be at risk
+
+---
 
 ### Decision
 
-Follow up early with a reminder, check-in, or support intervention
-
-### Impact
-
-The student may re-engage before the situation worsens
+Intervene early
 
 ---
 
-## When to Use This Thinking
+## From Insight to Action
 
-This way of thinking is useful whenever you are working with data and need to move beyond description.
+Understanding the data is not the final step.
 
-For example:
+We still need to decide:
 
-* student engagement monitoring
-* customer behaviour analysis
-* operational dashboards
-* survey and feedback reporting
+* Which students should we focus on?
+* What action should we take?
 
-In all of these cases, the key question is the same:
+Different interpretations may lead to different decisions.
 
-**What should this data help us understand or decide?**
-
----
-
-## Common Pitfall
-
-A common mistake is to stop too early.
-
-For example:
-
-* collecting data
-* summarising data
-* visualising data
-
-These are useful steps, but they are not the end goal.
-
-A dashboard without interpretation is only a display.
-
-Analytics becomes valuable when it supports a decision or action.
-
----
-
-## How this connects
-
-In the exercise, you will:
-
-* interpret a simple student scenario
-
-In the lab, you will:
-
-* analyse a dataset
-* identify at-risk students
-* recommend an action
-
-This means you will move from **concept** to **thinking** to **application**.
+This is why **thinking matters**.
 
 ---
 
 ## Key Takeaway
 
-The goal is not just to do analysis.
+The goal is not to do analysis.
 
-The goal is to **think with analysis**.
+> **The goal is to think with analysis — and decide what to do next.**
