@@ -15,15 +15,15 @@ By the end of this module, you should be able to:
 
 ## Why This Module Matters
 
-Many people learn tools first.
+Many people start by learning tools.
 
 They learn Python, R, or dashboards — but still struggle to answer:
 
-> “What should we do with the data?”
+> **What should we do with the data?**
 
 This module sets the foundation.
 
-We focus on **thinking with data**, not just working with data.
+We focus on **thinking with data**, not just working with it.
 
 ---
 
@@ -41,19 +41,41 @@ In this course, we go further — towards decisions and real outcomes.
 
 ---
 
+## From Analysis to Decisions
+
+Data helps us understand what is happening.
+
+But in practice, we still need to decide:
+
+* what action to take
+* who to prioritise
+* how to allocate limited resources
+
+These decisions are often made under:
+
+* uncertainty
+* trade-offs
+* incomplete information
+
+This means analytics is not just about finding patterns.
+
+It is about:
+
+> **choosing what to do next**
+
+---
+
 ## Scenario
 
-Throughout this module, we use a simple example:
-
-Student engagement data:
+You are given simple student engagement data:
 
 * number of logins
 * assignment submission status
 * forum participation
 
-Your goal is to determine:
+Your task is to determine:
 
-> which students may require intervention
+> **Which students may require intervention?**
 
 ---
 
@@ -65,7 +87,7 @@ Your goal is to determine:
 
 Each step builds on the previous one:
 
-* learn the concept
+* understand the concept
 * think through a scenario
 * apply using data
 
@@ -75,9 +97,9 @@ Each step builds on the previous one:
 
 In this module, you will:
 
-* interpret simple student data
+* interpret simple data
 * derive meaning from it
-* identify at-risk students
+* identify students who may be at risk
 * recommend an action
 
 ---
@@ -94,9 +116,7 @@ In this module, you will:
 
 The goal is not to do analysis.
 
-It is to:
-
-> **think with analysis**
+> **It is to think with analysis — and decide what to do next.**
 
 ---
 
