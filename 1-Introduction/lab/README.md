@@ -6,20 +6,22 @@
 
 In this lab, you will:
 
-* Explore raw data
-* Transform it into information
-* Derive insights
-* Make a decision
+* explore raw data
+* transform it into information
+* derive insights
+* decide what action to take
 
 ---
 
-## How this lab connects
+## How This Lab Connects
 
 In the lesson, you learned how data becomes decisions.
 
 In the exercise, you applied this thinking to a simple case.
 
-In this lab, you will apply the same process to a dataset to identify at-risk students and recommend an action.
+In this lab, you will apply the same process to a dataset to:
+
+> **identify at-risk students and decide what to do next**
 
 ---
 
@@ -27,13 +29,13 @@ In this lab, you will apply the same process to a dataset to identify at-risk st
 
 You are given student engagement data:
 
-* Number of logins
-* Assignment submission status
-* Forum participation
+* number of logins
+* assignment submission status
+* forum participation
 
 Your task is to determine:
 
-Which students may require intervention.
+> **Which students may require intervention, and what action should be taken?**
 
 ---
 
@@ -41,14 +43,14 @@ Which students may require intervention.
 
 ### Python (Recommended)
 
-* Use `python/data_to_decision.ipynb`
+* `python/data_to_decision.ipynb`
 * Run using Google Colab or Jupyter Notebook
 
 ---
 
 ### R (Optional)
 
-* Use `r/data_to_decision.R`
+* `r/data_to_decision.R`
 * Run using RStudio
 
 ---
@@ -57,43 +59,45 @@ Which students may require intervention.
 
 ### Step 1: Explore the Data
 
-* View the dataset
-* Understand the columns
+* view the dataset
+* understand what each column represents
 
 ---
 
 ### Step 2: Summarise the Data
 
-* Generate summary statistics
-* Identify patterns
+* generate summary statistics
+* identify patterns and signals
 
 ---
 
 ### Step 3: Identify At-Risk Students
 
-* Apply simple rules
-* Flag students with low engagement
+* apply simple rules
+* flag students with low engagement
 
 ---
 
 ### Step 4: Make a Decision
 
-* Decide which students need intervention
-* Recommend an action
+* decide which students to prioritise
+* recommend an action for each group
 
 ---
 
 ## Deliverable
 
-Write a short response:
+Write a short response covering:
 
-* What did you observe?
-* What does it mean?
-* What should be done?
+* **Observation** — What patterns did you observe?
+* **Interpretation** — What do these patterns mean?
+* **Decision** — Which students require intervention?
+* **Action** — What should be done?
 
 ---
 
-## Reminder
+## Key Reminder
 
 The goal is not to produce output.
-The goal is to make a decision based on data.
+
+> **The goal is to use data to decide what to do next.**
