@@ -1,4 +1,4 @@
-# Lab Solutions: Problem Framing (Example)
+# Model_Answer: Problem Framing (Example)
 
 ---
 
