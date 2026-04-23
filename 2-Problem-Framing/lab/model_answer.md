@@ -1,8 +1,6 @@
-# Model_Answer: Problem Framing (Example)
+# Model Answer: Problem Framing (Example)
 
 ---
-
-## Example Response
 
 ### Business Objective
 
