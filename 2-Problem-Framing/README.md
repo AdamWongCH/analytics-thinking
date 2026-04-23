@@ -15,28 +15,38 @@ By the end of this module, you should be able to:
 
 ## Why This Module Matters
 
-Most analytics work fails before it begins.
+In Module 1, you learned that analytics helps us decide what to do.
 
-Not because of bad models —
+But before we can decide:
+
+> **we must define the right problem**
+
+Many analytics efforts fail not because of poor models —
 but because the problem was never clearly defined.
-
-Teams often:
-
-* jump into data too early
-* build dashboards without purpose
-* optimise metrics that do not matter
 
 ---
 
 ## The Core Idea
 
-Before analysing data, you must be clear on:
+Before analysing data, we must be clear on:
 
 * What problem are we solving?
 * What decision needs to be made?
 * What outcome are we trying to influence?
 
-Analytics should always be tied to a decision.
+---
+
+## Request vs Problem
+
+A request is not a problem.
+
+| Request           | Problem                                |
+| ----------------- | -------------------------------------- |
+| Build a dashboard | Identify at-risk students early        |
+| Track engagement  | Improve retention through intervention |
+
+A request tells you *what to build*.
+A problem tells you *what to solve*.
 
 ---
 
@@ -50,37 +60,32 @@ Management says:
 
 ---
 
-## From Request to Problem
+## The Problem
 
 This is not yet a problem.
 
-It is a **request**.
+It is a request.
 
 We need to clarify:
 
 * What does engagement mean?
-* Why is engagement declining?
 * What decision will this support?
 * What action will be taken?
+* What does success look like?
 
 ---
 
-## Framework
+## From Problem to Decision
 
-We use the CRISP-DM framework:
+A well-framed problem leads to a clear decision.
 
-1. Business Understanding
-2. Data Understanding
-3. Data Preparation
-4. Modelling
-5. Evaluation
-6. Deployment
+For example:
 
-In this module, we focus on:
+**Problem:**
+Identify students with low engagement in the first 4 weeks
 
-**Business Understanding**
-
-This phase defines everything that follows.
+**Decision:**
+Intervene early with targeted support
 
 ---
 
@@ -92,9 +97,9 @@ This phase defines everything that follows.
 
 Each step builds on the previous one:
 
-* understand the problem
-* refine the question
-* apply structured thinking
+* understand the concept
+* refine a problem
+* apply the thinking
 
 ---
 
@@ -102,9 +107,9 @@ Each step builds on the previous one:
 
 In this module, you will:
 
-* transform vague requests into clear problems
-* define decision-focused questions
-* identify what success looks like
+* refine vague requests into clear problems
+* define what success looks like
+* connect problems to decisions
 
 ---
 
@@ -118,7 +123,9 @@ In this module, you will:
 
 ## Key Mindset
 
-Better problem framing leads to better analytics outcomes.
+Do not jump into data.
+
+> **Start by defining the right problem.**
 
 ---
 
