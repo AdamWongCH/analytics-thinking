@@ -6,61 +6,52 @@
 
 By the end of this module, you should be able to:
 
-* understand how analytics is used in real-world systems
-* connect different analytics techniques
-* translate insights into actions
-* think about data systems, not just analysis
+* understand how analytics operates as part of a system
+* connect different analytics techniques to decision-making
+* recognise how data, models, and actions are linked
+* think beyond analysis towards real-world impact
 
 ---
 
 ## Why This Module Matters
 
-Analytics is not just:
+So far, you have learned how to:
 
-* building models
-* creating dashboards
+* analyse data
+* build models
+* interpret results
 
-It is about:
+But in practice, analytics does not happen in isolation.
 
-* supporting decisions
-* improving outcomes
-* operating as part of a system
+It exists within systems that:
+
+* support decisions
+* trigger actions
+* produce outcomes
 
 ---
 
 ## The Core Idea
 
-Real-world analytics is a system involving:
+Real-world analytics is not just about analysis.
 
-* data
-* models
-* people
-* decisions
+It is about connecting:
 
-The value of analytics comes from how these elements work together.
+> **Data → Analysis → Decision → Action**
+
+Across different domains, the structure remains the same.
 
 ---
 
 ## Scenario
 
-You are part of an analytics team at a university.
+You are part of an analytics team working in different contexts:
 
-Your task is to design an analytics solution to support student success.
+* a university improving student retention
+* an e-commerce platform reducing customer churn
+* a hospital prioritising high-risk patients
 
----
-
-## Framework
-
-A simple analytics system can be viewed as:
-
-1. Data
-2. Processing
-3. Analysis
-4. Output
-5. Decision
-6. Impact
-
-This extends beyond modelling into real-world use.
+Your task is to understand how analytics supports decisions in each case.
 
 ---
 
@@ -72,9 +63,9 @@ This extends beyond modelling into real-world use.
 
 Each step builds on the previous one:
 
-* understand how analytics systems work
-* design a solution conceptually
-* apply structured thinking to a real scenario
+* understand system thinking
+* recognise patterns across contexts
+* apply structured decision thinking
 
 ---
 
@@ -82,55 +73,46 @@ Each step builds on the previous one:
 
 In this module, you will:
 
-* connect different analytics techniques
-* design an end-to-end analytics approach
-* translate insights into actions
-* think about how analytics supports decisions in practice
+* identify how analytics systems operate in different domains
+* connect data, analysis, and decisions
+* recognise common patterns across contexts
 
 ---
 
 ## Estimated Time
 
 * Lesson: 20–25 minutes
-* Exercise: 20–25 minutes
-* Lab: 30–40 minutes
+* Exercise: 15–20 minutes
+* Lab: 25–30 minutes
 
 ---
 
 ## Key Mindset
 
-Analytics is not about tools.
+Analytics is not about producing outputs.
 
-It is about:
-
-> **impact**
-
----
-## Beyond This Learning Path
-
-This course focuses on understanding data, building models, and supporting decisions.
-
-Beyond this, there are more advanced areas you may explore:
-
-* **Prescriptive analytics and optimisation**
-  → deciding the best action under constraints
-
-* **Computer vision (image recognition)**
-  → extracting insights from images
-
-* **Video analytics**
-  → analysing behaviour and patterns over time in visual data
-
-These build on the same foundation, but require more specialised techniques.
-
-The key idea remains the same:
-
-> data → insight → decision → impact
+> **It is about enabling decisions and actions.**
 
 ---
 
-## Completion
+## In Practice
 
-You have completed the analytics learning path.
+See:
 
-The next step is to apply these concepts in real-world contexts.
+`case-studies/01-from-prediction-to-intervention/`
+
+This case study shows how analytics operates as a full system:
+
+* prediction
+* decision
+* intervention
+* evaluation
+* learning
+
+---
+
+## Next Step
+
+Proceed to:
+
+`../11-Social-Network-Analytics/`
