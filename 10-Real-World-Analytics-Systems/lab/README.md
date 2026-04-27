@@ -1,77 +1,79 @@
-# Lab: Case Study
+# Lab: From Data to System Design
 
 ---
 
 ## Objective
 
-Apply analytics thinking to a real-world scenario.
-
----
-
-## How this lab connects
-
-You have learned individual techniques.
-
-Now you will combine them.
+Use data to design an analytics system that supports decisions and actions.
 
 ---
 
 ## Scenario
 
-A university wants to:
+You are given datasets from different domains.
 
-* improve student engagement
-* reduce attrition
-* better understand student experience
+Your task is not just to analyse the data.
+
+> **Your task is to design a system that connects data to decisions and actions.**
 
 ---
 
 ## Tasks
 
-### Step 1: Understand the Problem
+For each dataset:
 
-* What is the key issue?
+### Step 1: Explore the Data
 
----
-
-### Step 2: Identify Data
-
-* What data is available?
+* What variables are available?
+* What patterns do you observe?
 
 ---
 
-### Step 3: Apply Methods
+### Step 2: Define the Problem
 
-* Which techniques would you use?
-
----
-
-### Step 4: Design Outputs
-
-* What should users see?
+* What problem does this data help solve?
 
 ---
 
-### Step 5: Recommend Actions
+### Step 3: Define the Analysis
 
-* What should be done?
+* What type of analysis would you perform?
+
+---
+
+### Step 4: Define the Decision
+
+* What decision will this support?
+
+---
+
+### Step 5: Recommend Action
+
+* What action should be taken?
+
+---
+
+### Step 6: Identify Risks
+
+* What could go wrong?
 
 ---
 
 ## Deliverable
 
-Write a short report:
+Write a structured response:
 
-* problem definition
-* data used
-* methods applied
-* insights
-* recommendations
+* **Observation**
+* **Problem**
+* **Analysis**
+* **Decision**
+* **Action**
+* **Risk**
 
 ---
 
-## Reminder
+## Key Reminder
 
-The goal is not to use all techniques.
+The goal is not to analyse the data.
 
-The goal is to **solve the problem effectively**.
+> **The goal is to design a system that leads to action.**
