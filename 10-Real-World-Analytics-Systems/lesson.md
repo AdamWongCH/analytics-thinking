@@ -4,199 +4,174 @@
 
 ## Objective
 
-Understand how analytics is applied in real-world contexts.
+Understand how analytics operates as a system that connects data to decisions and actions.
 
 ---
 
-## Why This Matters
+## From Analysis to Systems
 
-In practice, analytics is not just about:
+In earlier modules, you learned how to:
 
-* building models
-* producing outputs
+* analyse data
+* build models
+* interpret results
 
-It is about:
+In practice, analytics does not exist as isolated tasks.
 
-> **supporting decisions and improving outcomes**
-
-A good model that is not used has no value.
-
----
-
-## The Common Mistake
-
-Many learners think analytics is:
-
-* running models
-* producing outputs
-
-But in reality:
-
-* outputs are only useful if they drive decisions
-
-Analytics does not end with analysis.
-
-It ends with **action and impact**.
+It operates as part of a system.
 
 ---
 
 ## What is an Analytics System?
 
-An analytics system is not a single model or dashboard.
+An analytics system connects:
 
-It is a system that connects:
-
-1. Data
-2. Processing
-3. Analysis
-4. Output
-5. Decision
-
-Each part must work together.
+1. **Data** — what is collected
+2. **Processing** — how data is prepared
+3. **Analysis** — how patterns are identified
+4. **Output** — how results are presented
+5. **Decision** — what action is taken
 
 ---
 
-## Worked Example
+## The Core Pattern
 
-Consider a student engagement system.
+Across different domains, the structure is the same:
 
-### Data
-
-* logins
-* activity
-* submissions
+> **Data → Analysis → Decision → Action**
 
 ---
 
-### Processing
-
-* aggregate weekly activity
-* prepare clean datasets
+## Examples Across Contexts
 
 ---
 
-### Analysis
+### Education
 
-* classification → identify at-risk students
-* time series → monitor engagement trends
-
----
-
-### Output
-
-* dashboard showing engagement levels
-* alerts for at-risk students
+* data → student engagement
+* analysis → identify at-risk students
+* decision → intervene early
 
 ---
 
-### Decision
+### E-commerce
 
-* instructors intervene early
-* support is provided to students
-
----
-
-### Impact
-
-* improved engagement
-* reduced attrition
+* data → customer behaviour
+* analysis → predict churn
+* decision → offer targeted promotions
 
 ---
 
-This shows how analytics becomes valuable only when it leads to action.
+### Healthcare
+
+* data → patient records
+* analysis → assess risk levels
+* decision → prioritise treatment
+
+---
+
+Different contexts.
+
+Same thinking.
+
+---
+
+## Why Systems Matter
+
+A dashboard or model alone does not create value.
+
+Value is created when:
+
+> **analysis leads to action**
+
+If no decision is made, the system has failed — even if the analysis is correct.
+
+---
+
+## The “Last Mile” Problem
+
+Many teams are good at:
+
+* building dashboards
+* generating insights
+
+But struggle with:
+
+* defining decisions
+* triggering actions
+* measuring outcomes
+
+This gap is often called the **last mile problem**.
+
+---
+
+## How Organisations Structure This
+
+In practice, organisations use frameworks such as:
+
+* KPI maps
+* OKRs
+* lifecycle metrics
+
+These frameworks help organise analytics work.
+
+---
+
+## But Here’s What Matters
+
+Frameworks are useful.
+
+But they do not replace thinking.
+
+> **A framework is only as good as the problem, decision, and action it supports.**
 
 ---
 
 ## Connecting Techniques
 
-Different methods serve different roles:
+Different techniques play roles in the system:
 
-* **regression** → understand relationships
-* **classification** → predict risk
-* **clustering** → identify segments
-* **association** → detect patterns
-* **time series** → monitor change
-* **NLP** → understand feedback
+* regression → relationships
+* classification → prediction
+* clustering → segmentation
+* association → co-occurrence
+* time series → trends
+* NLP → text understanding
 
-In practice, these are often combined within a single system.
-
----
-
-## The Real Workflow
-
-In real-world settings:
-
-1. Define the problem
-2. Gather data
-3. Analyse
-4. Present insights
-5. Enable decisions
-6. Monitor outcomes
-
-This is not a one-time process.
-
-It is continuous.
+Each contributes to decision-making.
 
 ---
 
-## When to Use This Thinking
+## From Technique to System Thinking
 
-Use system thinking when:
+Earlier, you focused on:
 
-* designing dashboards
-* building analytics solutions
-* working with stakeholders
-* scaling analytics across teams
+* analysing data
 
-A simple rule:
+Now, the focus is:
 
-> If analytics does not lead to action, something is missing in the system.
+> **How does this analysis drive a decision in a real system?**
 
 ---
 
-## Key Considerations
+## In Practice
 
-For analytics to be effective, it must be:
+See:
 
-* **usable** → stakeholders can understand it
-* **timely** → available when needed
-* **trusted** → data and methods are reliable
+> **Case Study: From Prediction to Intervention Recommendation**
 
-Without these, analytics will not be adopted.
+This case study shows how analytics moves from:
 
----
-
-## Common Pitfall
-
-A common mistake is to focus only on one part of the system.
-
-For example:
-
-* building models without considering how they will be used
-* creating dashboards without clear decisions
-* producing insights without follow-up action
-
-Analytics fails when it is disconnected from decision-making.
-
----
-
-## How this connects
-
-This module brings together everything you have learned:
-
-* problem framing
-* data understanding
-* analytical methods
-* interpretation
-
-All of these contribute to building effective analytics systems.
+* identifying risk
+* to deciding actions
+* to evaluating impact
+* to learning what works
+* to recommending future actions
 
 ---
 
 ## Key Takeaway
 
-Analytics is not just about analysis.
+Analytics is not just about models or dashboards.
 
-It is about:
-
-> **designing systems that turn data into decisions and impact**
+> **It is about designing systems that turn data into decisions and actions — and improve over time.**
