@@ -1,51 +1,67 @@
-# Exercise: Designing an Analytics Solution
+# Exercise: Designing an Analytics System
 
 ---
 
 ## Objective
 
-Think about how to apply analytics in practice.
+Apply system thinking to design how analytics supports decisions.
 
 ---
 
 ## Scenario
 
-You are asked to improve student engagement.
+You are given three situations:
+
+---
+
+### Case 1: Education
+
+A university wants to improve student retention.
+
+---
+
+### Case 2: E-commerce
+
+An online platform wants to reduce customer churn.
+
+---
+
+### Case 3: Healthcare
+
+A hospital wants to prioritise high-risk patients.
 
 ---
 
 ## Tasks
 
-### 1. Define the Problem
+For each case, define:
 
-What are we trying to solve?
+1. **Data**
+   What data would you collect?
 
----
+2. **Analysis**
+   What patterns or models would you use?
 
-### 2. Identify Data
+3. **Decision**
+   What needs to be decided?
 
-What data would you need?
+4. **Action**
+   What action should be taken?
 
----
-
-### 3. Choose Methods
-
-Which techniques would you use?
-
----
-
-### 4. Define Outputs
-
-What should be shown to users?
-
----
-
-### 5. Define Actions
-
-What decisions should this support?
+5. **Risk / Limitation**
+   What could go wrong?
 
 ---
 
 ## Reflection
 
-* Why is designing the system important?
+* What is similar across all three systems?
+* Why is the same structure applicable across different domains?
+
+---
+
+## Key Note
+
+You are not solving three problems.
+
+> **You are designing one system applied in three contexts.**
