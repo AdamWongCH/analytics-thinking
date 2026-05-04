@@ -146,4 +146,11 @@ It is about:
 
 ## License
 
-CC BY-NC 4.0
+This repository uses a mixed-license model:
+
+- **Learning materials, diagrams, slides, documentation, and written explanations** are licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+- **Code, notebooks, scripts, configuration files, and technical examples** are licensed under the **MIT License**.
+
+You may reuse and adapt the learning materials for non-commercial educational purposes with attribution. You may reuse the code examples under the MIT License.
+
+Copyright © 2026 Adam Wong Cheng Hun.
