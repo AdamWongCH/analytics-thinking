@@ -154,3 +154,5 @@ This repository uses a mixed-license model:
 You may reuse and adapt the learning materials for non-commercial educational purposes with attribution. You may reuse the code examples under the MIT License.
 
 Copyright © 2026 Adam Wong Cheng Hun.
+
+See [LICENSE.md](LICENSE.md) for details.
